@@ -80,6 +80,18 @@ a predefined capacity (bin_capacity), the fitnessis set to 0. The function then 
 individual in the population. 
 
 ## Insights into the problem landscape
+![image](https://github.com/HameedAdagun/CT421-Project-1-Evolutionary-Search/assets/144913969/b2b33412-3275-4304-b31d-e8efb74928fa)
+![image](https://github.com/HameedAdagun/CT421-Project-1-Evolutionary-Search/assets/144913969/7eb8ef1d-2d13-42d7-8f28-a24ccc0a5bb4)
+![image](https://github.com/HameedAdagun/CT421-Project-1-Evolutionary-Search/assets/144913969/fce59af1-47f1-48e4-81c7-414092d76214)
+![image](https://github.com/HameedAdagun/CT421-Project-1-Evolutionary-Search/assets/144913969/891105b6-c0ea-4e9a-aec3-eab73693dda7)
+![image](https://github.com/HameedAdagun/CT421-Project-1-Evolutionary-Search/assets/144913969/1db24959-0380-4853-975e-038800975a80)
+
+The aim of the genetic algorithm was to find the lowest amount of bins that could be used. For each of the landscape I found the 
+lowest to be 20.
+
+
+
+
 
 
  
